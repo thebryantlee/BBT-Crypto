@@ -1,1 +1,1 @@
-# BBT-nft
+# BBT
